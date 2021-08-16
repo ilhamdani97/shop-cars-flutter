@@ -10,9 +10,9 @@ Shop Cars
 ## Screenshots
 
 <p float="left">
-  <img src="./assets/scereenapp/landing.jpeg" width="200" height="350" alt="Landing/>
+  <img src="./assets/screenapp/landing.png" width="200" height="370" alt="Landing"/>
 
-  <img src="./assets/scereenapp/detail.jpeg" width="200" height="350" alt="Detail"/>
+  <img src="assets/screenapp/detail.png" width="200" height="370" alt="Detail"/>
 </p>
 
 ## Fitures
@@ -20,22 +20,10 @@ Shop Cars
 - Choose Cars
 - Counter Cars
 
-## Why BarBar Food
-
-- Esay To Use this Application
-- It's Flutter, so it support android & iOS by default
-- Express is one of the most starred javascript framework, and it is very easy to use
 
 ## Tech Stack
 
-- React Native for the Mobile Frontend
-- Node + Express Js for the Backend
-
-## Prerequisites
-
-- Make sure You had been install NodeJs in your system [https://nodejs.org/](https://nodejs.org/)
-- Then install React Native [https://facebook.github.io/react-native/](https://facebook.github.io/react-native/)
-- Dont forget express ad the backend [https://expressjs.com/](https://expressjs.com/)
+- Flutterfor the Mobile Frontend
 
 ## Installation & Configuration
 
